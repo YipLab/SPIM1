@@ -1,6 +1,6 @@
 # SPIM1
 
-Modular lightsheet microscope that enables the swapping of excitation optics, imaging medium and imaging objectives.
+Modular lightsheet microscope that enables the swapping of excitation optics, imaging medium and imaging objectives. The imaging arm on the system is setup vertically to make use of dipping objectives. 
 
 ![System Schematic](https://github.com/YipLab/SPIM1/blob/main/images/schematic.png)
 
