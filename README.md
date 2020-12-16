@@ -23,6 +23,12 @@ CL1 | Plano-Convex Cylindrical Lens f = 40 mm ([LJ1402L1-A](https://www.thorlabs
 Obj1 | Olympus SLMPlan 20x/0.35  
 Obj2 | Olympus SLMPlan 20x/0.35
 
+DM1 | 570 nm LP Dichroic  
+DM2 | 500 nm LP Dichroic  
+DM3 | 455 nm LP Dichroic  
+  
+FW1 | 553 nm - 44 nm BP filter 
+
 ### Camera
 CAM | Andor NEO 5.5 sCMOS  
 
