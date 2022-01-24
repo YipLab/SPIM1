@@ -27,7 +27,10 @@ DM1 | 570 nm LP Dichroic
 DM2 | 500 nm LP Dichroic  
 DM3 | 455 nm LP Dichroic  
   
-FW1 | 553 nm - 44 nm BP filter 
+FW1 | 454 nm - 44 nm BP filter  
+FW2 | 539 nm - 60 nm BP filter
+FW3 | 553 nm - 44 nm BP filter 
+FW4 | 681 LP filter
 
 ### Camera
 CAM | Andor NEO 5.5 sCMOS  
